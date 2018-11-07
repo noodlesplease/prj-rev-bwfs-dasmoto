@@ -1,0 +1,25 @@
+body{
+  font-family: Helvetica;
+}
+h1{
+  text-align: center;
+  color: LemonChiffon;
+  font-size: 80px;
+  background-image: url('/Users/rebeccaaguilar/Desktop/Code Academy/Web Development/projects/Dasmoto/images/gridpattern.jpeg');
+}
+h2{
+  color: white;
+}
+.pricing{
+  font-size: 20px;
+  color: Blue;
+}
+.brushes{
+  background-color: Aquamarine;
+}
+.frames{
+  background-color: lightcoral;
+}
+.finnish{
+  background-color: lightblue;
+}
